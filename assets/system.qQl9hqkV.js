@@ -1,1 +1,0 @@
-import{I as t}from"./index-Dwkfn6N4.js";const n=t(),e=()=>n.statusBarHeight||10,i=()=>{if(uni.getMenuButtonBoundingClientRect){let{top:t,height:n}=uni.getMenuButtonBoundingClientRect();return 2*(t-e())+n}return 40},u=()=>e()+i(),o=()=>{};export{i as a,o as b,u as c,e as g};
